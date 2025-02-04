@@ -6,7 +6,7 @@ Sou apaixonado por desenvolvimento Full Stack e sempre estou explorando novas te
 Estou sempre aprimorando minhas habilidades e buscando criar soluções inovadoras.
 
 <p>
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/IsacPessoa?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
