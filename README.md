@@ -31,7 +31,7 @@ Estou sempre aprimorando minhas habilidades e buscando criar soluções inovador
     alt="HTML"
     title="HTML" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; margin-bottom: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
@@ -39,7 +39,7 @@ Estou sempre aprimorando minhas habilidades e buscando criar soluções inovador
     alt="CSS" 
     title="CSS"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; margin-bottom: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
@@ -47,7 +47,7 @@ Estou sempre aprimorando minhas habilidades e buscando criar soluções inovador
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; margin-bottom: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
@@ -55,7 +55,7 @@ Estou sempre aprimorando minhas habilidades e buscando criar soluções inovador
     alt="TypeScript"
     title="TypeScript" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; margin-bottom: 5px;"  
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
 <img 
@@ -63,7 +63,7 @@ Estou sempre aprimorando minhas habilidades e buscando criar soluções inovador
     alt="React"
     title="React" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; margin-bottom: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 <img 
@@ -71,7 +71,7 @@ Estou sempre aprimorando minhas habilidades e buscando criar soluções inovador
     alt="Bootstrap"
     title="Bootstrap" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; margin-bottom: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
 <img 
@@ -79,7 +79,7 @@ Estou sempre aprimorando minhas habilidades e buscando criar soluções inovador
     alt="SASS" 
     title="SASS"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; margin-bottom: 5px;"  
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
 />
 <img 
@@ -87,7 +87,7 @@ Estou sempre aprimorando minhas habilidades e buscando criar soluções inovador
     alt="JQuery" 
     title="JQuery"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; margin-bottom: 5px;"  
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
 />
 <img 
@@ -95,7 +95,7 @@ Estou sempre aprimorando minhas habilidades e buscando criar soluções inovador
     alt="Git" 
     title="Git"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; margin-bottom: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img 
@@ -103,7 +103,7 @@ Estou sempre aprimorando minhas habilidades e buscando criar soluções inovador
     alt="Java" 
     title="Java"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; margin-bottom: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 
