@@ -26,6 +26,7 @@ Estou sempre aprimorando minhas habilidades e buscando criar soluções inovador
 
 ### 🤖 Linguagens e Tecnologias
 
+<div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center; margin-bottom: 15px;">
 <img 
     align="left" 
     alt="HTML"
@@ -106,6 +107,7 @@ Estou sempre aprimorando minhas habilidades e buscando criar soluções inovador
     style="padding-right: 10px; margin-bottom: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
+</div>
 
 <br/>
 <br/>
