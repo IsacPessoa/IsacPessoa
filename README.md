@@ -26,85 +26,70 @@ Estou sempre aprimorando minhas habilidades e buscando criar soluções inovador
 
 ### 🤖 Linguagens e Tecnologias
 
-<div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center; margin-bottom: 15px;">
-<img 
-    align="left" 
+<div display: flex; 
+    flex-wrap: wrap; 
+    gap: 20px; 
+    justify-content: center; 
+    align-items: center; 
+    margin-bottom: 20px;>
+<img  
     alt="HTML"
     title="HTML" 
     width="30px" 
-    style="padding-right: 10px; margin-bottom: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
-<img 
-    align="left" 
+<img  
     alt="CSS" 
     title="CSS"
     width="30px" 
-    style="padding-right: 10px; margin-bottom: 10px;;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
-    align="left" 
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
-    style="padding-right: 10px; margin-bottom: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
-    align="left" 
     alt="TypeScript"
     title="TypeScript" 
     width="30px" 
-    style="padding-right: 10px; margin-bottom: 10px;"  
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
-<img 
-    align="left" 
+<img  
     alt="React"
     title="React" 
     width="30px" 
-    style="padding-right: 10px; margin-bottom: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 <img 
-    align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
     width="30px" 
-    style="padding-right: 10px; margin-bottom: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
 <img 
-    align="left" 
     alt="SASS" 
     title="SASS"
     width="30px" 
-    style="padding-right: 10px; margin-bottom: 10px;"  
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
 />
-<img 
-    align="left" 
+<img  
     alt="JQuery" 
     title="JQuery"
     width="30px" 
-    style="padding-right: 10px; margin-bottom: 5px;"  
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
 />
 <img 
-    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
-    style="padding-right: 10px; margin-bottom: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img 
-    align="left" 
     alt="Java" 
     title="Java"
     width="30px" 
-    style="padding-right: 10px; margin-bottom: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 </div>
