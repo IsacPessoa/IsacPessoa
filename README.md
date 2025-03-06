@@ -28,7 +28,7 @@ Estou sempre aprimorando minhas habilidades e buscando criar soluções inovador
 
 <div display: flex; 
     flex-wrap: wrap; 
-    gap: 30px; 
+    gap: 40px; 
     justify-content: center; 
     align-items: center; 
     margin-bottom: 20px;>
