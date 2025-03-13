@@ -108,7 +108,8 @@ Estou sempre aprimorando minhas habilidades e buscando criar soluções inovador
   />
   <img 
     alt="GitHub Top Languages" 
-    height="200" 
+    height="200"
+    style="margin-left: 40px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsacPessoa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 </p>
