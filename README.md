@@ -99,7 +99,7 @@ Estou sempre aprimorando minhas habilidades e buscando criar soluções inovador
 
 ### 📊 Estatísticas
 
-<p style="margin-bottom: 40px;"></p> <!-- Espaço antes das imagens -->
+<p style="margin-bottom: 40px;"></p>
 
 <div style="display: flex; justify-content: space-between; gap: 40px; margin-bottom: 40px;">
   <div>
@@ -114,7 +114,7 @@ Estou sempre aprimorando minhas habilidades e buscando criar soluções inovador
   <div>
     <img 
       alt="GitHub Top Languages" 
-      height="200" 
+      height="150" 
       style="margin-bottom: 20px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsacPessoa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
     />
