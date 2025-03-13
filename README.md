@@ -118,13 +118,19 @@ Estou sempre aprimorando minhas habilidades e buscando criar soluções inovador
 </p>
 
 ## 🚀 Meus Projetos
+
+<div align="center">
+  <a href="https://github.com/IsacPessoa/clone-disney-plus">
+    <img src="https://img.shields.io/badge/Projeto-Clone%20Disney%2B-blue?style=for-the-badge">
+  </a>
+  <a href="https://github.com/IsacPessoa/todo-vue">
+    <img src="https://img.shields.io/badge/Projeto-API%20Java-red?style=for-the-badge">
+  </a>
+  <a href="https://github.com/IsacPessoa/Projeto06_isac">
+    <img src="https://img.shields.io/badge/Projeto-Site%20Responsivo-green?style=for-the-badge">
+  </a>
+    <a href="https://github.com/IsacPessoa/CalcIMC">
+    <img src="https://img.shields.io/badge/Projeto-Site%20Responsivo-green?style=for-the-badge">
+  </a>
+</div>
  
-- [![Clone Disney+](https://img.shields.io/badge/Projeto-Clone%20Disney%2B-blue?style=for-the-badge)](https://github.com/IsacPessoa/clone_disney_plus)
-
-- [![Todo-Vue](https://img.shields.io/badge/Projeto-Todo%20Vue%2B-blue?style=for-the-badge)](https://github.com/IsacPessoa/todo-vue)
-
-- [![Restaurante online](https://img.shields.io/badge/Projeto-Restaurante%20online%2B-blue?style=for-the-badge)](https://github.com/IsacPessoa/Projeto06_isac)
-
-- [![Calculadora de IMC](https://img.shields.io/badge/Projeto-Calculadora%20IMC%2B-blue?style=for-the-badge)](https://github.com/IsacPessoa/CalcIMC)
-
-
