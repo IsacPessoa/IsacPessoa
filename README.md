@@ -115,25 +115,24 @@ Estou sempre aprimorando minhas habilidades e buscando criar soluções inovador
 
 
 
-### 🚀 Meus Projetos
-
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px;">
-  <a href="https://github.com/IsacPessoa/clone-disney-plus" style="text-decoration: none; width: 220px;">
+  <a href="https://github.com/IsacPessoa/clone-disney-plus" style="text-decoration: none; width: 23%;">
     <img src="https://img.shields.io/badge/Projeto-Clone%20Disney%2B-blue?style=for-the-badge; width: 100%;" />
   </a>
 
-  <a href="https://github.com/IsacPessoa/todo-vue" style="text-decoration: none; width: 220px;">
+  <a href="https://github.com/IsacPessoa/todo-vue" style="text-decoration: none; width: 23%;">
     <img src="https://img.shields.io/badge/Projeto-Todo%20Vue-green?style=for-the-badge; width: 100%;" />
   </a>
 
-  <a href="https://github.com/IsacPessoa/Projeto06_isac" style="text-decoration: none; width: 220px;">
+  <a href="https://github.com/IsacPessoa/Projeto06_isac" style="text-decoration: none; width: 23%;">
     <img src="https://img.shields.io/badge/Projeto-Site%20Restaurantes-yellow?style=for-the-badge; width: 100%;" />
   </a>
 
-  <a href="https://github.com/IsacPessoa/CalcIMC" style="text-decoration: none; width: 220px;">
+  <a href="https://github.com/IsacPessoa/CalcIMC" style="text-decoration: none; width: 23%;">
     <img src="https://img.shields.io/badge/Projeto-Calculadora%20IMC-red?style=for-the-badge; width: 100%;" />
   </a>
 </div>
+
 
 
 
