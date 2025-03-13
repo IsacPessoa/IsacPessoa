@@ -116,7 +116,7 @@ Estou sempre aprimorando minhas habilidades e buscando criar soluções inovador
 
 ### 🚀 Meus Projetos
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px; margin-top: 40px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 30px; margin-top: 40px;">
   <a href="https://github.com/IsacPessoa/clone-disney-plus" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Projeto-Clone%20Disney%2B-blue?style=for-the-badge&logo=sass&logoColor=white" style="height: 30px;" />
   </a>
