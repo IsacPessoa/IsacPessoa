@@ -99,19 +99,19 @@ Estou sempre aprimorando minhas habilidades e buscando criar soluções inovador
 
 ### 📊 Estatísticas
 
-<p style="margin-bottom: 40px;"> </p>
+<p style="margin-bottom: 40px;"></p> <!-- Espaço antes das imagens -->
 
-<div style="display: flex; gap: 20px; margin-bottom: 40px;">
+<div style="display: block; margin-bottom: 40px;">
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="margin-bottom: 20px;" 
     src="https://github-readme-stats.vercel.app/api?username=IsacPessoa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=86400"
   />
+</div>
 
+<div style="display: block; margin-bottom: 40px;">
   <img 
-    align="left" 
     alt="GitHub Top Languages" 
     height="200" 
     style="margin-bottom: 20px;" 
@@ -141,4 +141,5 @@ Estou sempre aprimorando minhas habilidades e buscando criar soluções inovador
     <img src="https://img.shields.io/badge/Projeto-Calculadora%20IMC-red?style=for-the-badge">
   </a>
 </div>
+
 
