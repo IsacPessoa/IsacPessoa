@@ -101,22 +101,24 @@ Estou sempre aprimorando minhas habilidades e buscando criar soluções inovador
 
 <p style="margin-bottom: 40px;"></p> <!-- Espaço antes das imagens -->
 
-<div style="display: block; margin-bottom: 40px;">
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    style="margin-bottom: 20px;" 
-    src="https://github-readme-stats.vercel.app/api?username=IsacPessoa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=86400"
-  />
-</div>
-
-<div style="display: block; margin-bottom: 40px;">
-  <img 
-    alt="GitHub Top Languages" 
-    height="200" 
-    style="margin-bottom: 20px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsacPessoa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
+<div style="display: flex; justify-content: space-between; gap: 20px; margin-bottom: 40px;">
+  <div style="flex: 1;">
+    <img 
+      alt="GitHub Stats" 
+      height="200" 
+      style="margin-bottom: 20px;" 
+      src="https://github-readme-stats.vercel.app/api?username=IsacPessoa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=86400"
+    />
+  </div>
+  
+  <div style="flex: 1;">
+    <img 
+      alt="GitHub Top Languages" 
+      height="200" 
+      style="margin-bottom: 20px;" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsacPessoa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+    />
+  </div>
 </div>
 
 ### 🚀 Meus Projetos
