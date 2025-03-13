@@ -115,22 +115,32 @@ Estou sempre aprimorando minhas habilidades e buscando criar soluções inovador
 
 ---
 
+
 ### 🚀 Meus Projetos
 
-<div align="center" style="margin-top: 40px; display: flex; flex-direction: column; gap: 10px;">
+<div align="center" style="margin-top: 40px;">
+  
   <a href="https://github.com/IsacPessoa/clone-disney-plus" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Projeto-Clone%20Disney%2B-blue?style=for-the-badge">
   </a>
+  <br>
+
   <a href="https://github.com/IsacPessoa/todo-vue" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Projeto-Todo%20Vue-green?style=for-the-badge">
   </a>
+  <br>
+
   <a href="https://github.com/IsacPessoa/Projeto06_isac" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Projeto-Site%20Restaurantes-yellow?style=for-the-badge">
   </a>
+  <br>
+
   <a href="https://github.com/IsacPessoa/CalcIMC" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Projeto-Calculadora%20IMC-red?style=for-the-badge">
   </a>
+
 </div>
+
 
 
  
