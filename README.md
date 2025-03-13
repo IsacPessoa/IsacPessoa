@@ -116,10 +116,10 @@ Estou sempre aprimorando minhas habilidades e buscando criar soluções inovador
   />
 
 </p>
-<p style="clear: both;"></p>
+
 ## 🚀 Meus Projetos
 
-<div align="center">
+<div align="center" style="margin-top: 30px;">
   <a href="https://github.com/IsacPessoa/clone-disney-plus">
     <img src="https://img.shields.io/badge/Projeto-Clone%20Disney%2B-blue?style=for-the-badge">
   </a>
