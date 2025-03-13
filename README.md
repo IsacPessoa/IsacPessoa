@@ -101,8 +101,8 @@ Estou sempre aprimorando minhas habilidades e buscando criar soluções inovador
 
 <p style="margin-bottom: 40px;"></p> <!-- Espaço antes das imagens -->
 
-<div style="display: flex; justify-content: space-between; gap: 20px; margin-bottom: 40px;">
-  <div style="flex: 1;">
+<div style="display: flex; justify-content: space-between; gap: 40px; margin-bottom: 40px;">
+  <div>
     <img 
       alt="GitHub Stats" 
       height="200" 
@@ -111,7 +111,7 @@ Estou sempre aprimorando minhas habilidades e buscando criar soluções inovador
     />
   </div>
   
-  <div style="flex: 1;">
+  <div>
     <img 
       alt="GitHub Top Languages" 
       height="200" 
@@ -143,5 +143,6 @@ Estou sempre aprimorando minhas habilidades e buscando criar soluções inovador
     <img src="https://img.shields.io/badge/Projeto-Calculadora%20IMC-red?style=for-the-badge">
   </a>
 </div>
+
 
 
