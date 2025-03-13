@@ -124,13 +124,13 @@ Estou sempre aprimorando minhas habilidades e buscando criar soluções inovador
     <img src="https://img.shields.io/badge/Projeto-Clone%20Disney%2B-blue?style=for-the-badge">
   </a>
   <a href="https://github.com/IsacPessoa/todo-vue">
-    <img src="https://img.shields.io/badge/Projeto-API%20Java-red?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Projeto-Todo%20Vue-green?style=for-the-badge">
   </a>
   <a href="https://github.com/IsacPessoa/Projeto06_isac">
-    <img src="https://img.shields.io/badge/Projeto-Site%20Responsivo-green?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Projeto-Site%20Restaurantes-yellow?style=for-the-badge">
   </a>
     <a href="https://github.com/IsacPessoa/CalcIMC">
-    <img src="https://img.shields.io/badge/Projeto-Site%20Responsivo-green?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Projeto-Calculadora%20IMC-red?style=for-the-badge">
   </a>
 </div>
  
