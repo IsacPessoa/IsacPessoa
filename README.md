@@ -105,7 +105,7 @@ Estou sempre aprimorando minhas habilidades e buscando criar soluções inovador
     height="200" 
     src="https://github-readme-stats.vercel.app/api?username=IsacPessoa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=86400"
   />
-  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Espaços não quebráveis para aumentar o espaço -->
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img 
     alt="GitHub Top Languages" 
     height="200" 
