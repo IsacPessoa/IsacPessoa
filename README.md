@@ -104,7 +104,7 @@ Estou sempre aprimorando minhas habilidades e buscando criar soluções inovador
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="margin-bottom: 20px;" 
     src="https://github-readme-stats.vercel.app/api?username=IsacPessoa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=86400"
   />
 
@@ -112,6 +112,7 @@ Estou sempre aprimorando minhas habilidades e buscando criar soluções inovador
     align="left" 
     alt="GitHub Top Languages" 
     height="200" 
+    style="margin-bottom: 20px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsacPessoa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 </div>
