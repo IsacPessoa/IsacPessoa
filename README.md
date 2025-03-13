@@ -101,7 +101,7 @@ Estou sempre aprimorando minhas habilidades e buscando criar soluções inovador
 
 <p style="margin-bottom: 40px;"></p>
 
-<div style="display: flex; justify-content: center; gap: 40px; margin-bottom: 40px;">
+<div style="display: flex; justify-content: center; margin-bottom: 40px;">
   <div>
     <img 
       alt="GitHub Stats" 
