@@ -116,6 +116,8 @@ Estou sempre aprimorando minhas habilidades e buscando criar soluções inovador
   />
 
 </p>
+<br/><br/><br/>
+<p style="clear: both;"></p>
 <p style="clear: both;"></p>
 ## 🚀 Meus Projetos
 
