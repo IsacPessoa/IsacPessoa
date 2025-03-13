@@ -105,7 +105,7 @@ Estou sempre aprimorando minhas habilidades e buscando criar soluções inovador
   <div>
     <img 
       alt="GitHub Stats" 
-      height="200" 
+      height="150" 
       style="margin-bottom: 20px;" 
       src="https://github-readme-stats.vercel.app/api?username=IsacPessoa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=86400"
     />
