@@ -103,13 +103,12 @@ Estou sempre aprimorando minhas habilidades e buscando criar soluções inovador
   <img 
     alt="GitHub Stats" 
     height="200" 
-    style="margin-right: 40px;" 
     src="https://github-readme-stats.vercel.app/api?username=IsacPessoa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=86400"
   />
+  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Espaços não quebráveis para aumentar o espaço -->
   <img 
     alt="GitHub Top Languages" 
-    height="200"
-    style="margin-left: 40px;" 
+    height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsacPessoa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 </p>
