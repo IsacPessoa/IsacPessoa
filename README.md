@@ -120,7 +120,7 @@ Estou sempre aprimorando minhas habilidades e buscando criar soluções inovador
 ## 🚀 Meus Projetos
 
 [![Clone Disney+](https://img.shields.io/badge/Projeto-Clone%20Disney%2B-blue?style=for-the-badge)](https://github.com/IsacPessoa/clone_disney_plus)
-[![Todo-Vue](https://img.shields.io/badge/Projeto-Todo-%20Vue%2B-blue?style=for-the-badge)](https://github.com/IsacPessoa/todo-vue)
+[![Todo-Vue](https://img.shields.io/badge/Projeto-Todo%20Vue%2B-blue?style=for-the-badge)](https://github.com/IsacPessoa/todo-vue)
 [![Restaurante online](https://img.shields.io/badge/Projeto-Restaurante%20online%2B-blue?style=for-the-badge)](https://github.com/IsacPessoa/Projeto06_isac)
 [![Calculadora de IMC](https://img.shields.io/badge/Projeto-Calculadora%20IMC%2B-blue?style=for-the-badge)](https://github.com/IsacPessoa/CalcIMC)
 
