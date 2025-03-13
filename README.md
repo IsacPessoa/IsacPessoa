@@ -108,20 +108,20 @@ Estou sempre aprimorando minhas habilidades e buscando criar soluções inovador
     src="https://github-readme-stats.vercel.app/api?username=IsacPessoa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=86400"
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsacPessoa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsacPessoa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
+
 <br/><br/><br/>
 <p style="clear: both;"></p>
-<p style="clear: both;"></p>
+
 ## 🚀 Meus Projetos
 
-<div align="center" style="margin-top: 30px;">
+<div align="center">
   <a href="https://github.com/IsacPessoa/clone-disney-plus">
     <img src="https://img.shields.io/badge/Projeto-Clone%20Disney%2B-blue?style=for-the-badge">
   </a>
