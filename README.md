@@ -99,6 +99,8 @@ Estou sempre aprimorando minhas habilidades e buscando criar soluções inovador
 
 ### 📊 Estatísticas
 
+<p style="margin-bottom: 40px;"> </p>
+
 <div style="display: flex; gap: 20px; margin-bottom: 40px;">
   <img 
     align="left" 
@@ -139,3 +141,4 @@ Estou sempre aprimorando minhas habilidades e buscando criar soluções inovador
     <img src="https://img.shields.io/badge/Projeto-Calculadora%20IMC-red?style=for-the-badge">
   </a>
 </div>
+
