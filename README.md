@@ -99,29 +99,25 @@ Estou sempre aprimorando minhas habilidades e buscando criar soluções inovador
 
 ### 📊 Estatísticas
 
-<p>
+<div align="center">
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px; margin-bottom: 10px" 
     src="https://github-readme-stats.vercel.app/api?username=IsacPessoa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=86400"
   />
 
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsacPessoa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-</p>
+</div>
 
-<br/><br/><br/>
-<p style="clear: both;"></p>
+---
 
-## 🚀 Meus Projetos
+### **🚀 Meus Projetos**
 
-<div align="center">
+<div align="center" style="margin-top: 40px;">
   <a href="https://github.com/IsacPessoa/clone-disney-plus">
     <img src="https://img.shields.io/badge/Projeto-Clone%20Disney%2B-blue?style=for-the-badge">
   </a>
@@ -131,7 +127,7 @@ Estou sempre aprimorando minhas habilidades e buscando criar soluções inovador
   <a href="https://github.com/IsacPessoa/Projeto06_isac">
     <img src="https://img.shields.io/badge/Projeto-Site%20Restaurantes-yellow?style=for-the-badge">
   </a>
-    <a href="https://github.com/IsacPessoa/CalcIMC">
+  <a href="https://github.com/IsacPessoa/CalcIMC">
     <img src="https://img.shields.io/badge/Projeto-Calculadora%20IMC-red?style=for-the-badge">
   </a>
 </div>
