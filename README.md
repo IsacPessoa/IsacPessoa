@@ -119,7 +119,6 @@ Estou sempre aprimorando minhas habilidades e buscando criar soluções inovador
 ### 🚀 Meus Projetos
 
 <div style="margin-top: 40px;">
-  
   <a href="https://github.com/IsacPessoa/clone-disney-plus" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Projeto-Clone%20Disney%2B-blue?style=for-the-badge">
   </a>
@@ -138,8 +137,8 @@ Estou sempre aprimorando minhas habilidades e buscando criar soluções inovador
   <a href="https://github.com/IsacPessoa/CalcIMC" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Projeto-Calculadora%20IMC-red?style=for-the-badge">
   </a>
-
 </div>
+
 
 
 
