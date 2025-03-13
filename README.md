@@ -99,27 +99,20 @@ Estou sempre aprimorando minhas habilidades e buscando criar soluções inovador
 
 ### 📊 Estatísticas
 
-<p style="margin-bottom: 40px;"></p>
+<p align="center">
+  <img 
+    alt="GitHub Stats" 
+    height="200" 
+    style="margin-right: 20px;" 
+    src="https://github-readme-stats.vercel.app/api?username=IsacPessoa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=86400"
+  />
+  <img 
+    alt="GitHub Top Languages" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsacPessoa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+  />
+</p>
 
-<div style="display: flex; justify-content: center; margin-bottom: 40px;">
-  <div>
-    <img 
-      alt="GitHub Stats" 
-      height="200" 
-      style="margin-bottom: 20px;" 
-      src="https://github-readme-stats.vercel.app/api?username=IsacPessoa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=86400"
-    />
-  </div>
-  
-  <div>
-    <img 
-      alt="GitHub Top Languages" 
-      height="200" 
-      style="margin-bottom: 20px;" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsacPessoa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-    />
-  </div>
-</div>
 
 ### 🚀 Meus Projetos
 
