@@ -99,7 +99,7 @@ Estou sempre aprimorando minhas habilidades e buscando criar soluções inovador
 
 ### 📊 Estatísticas
 
-<div style="display: flex; gap: 20px; margin-bottom: 20px;">
+<div style="display: flex; gap: 20px; margin-bottom: 40px;">
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -115,10 +115,6 @@ Estou sempre aprimorando minhas habilidades e buscando criar soluções inovador
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsacPessoa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 </div>
-
-
----
-
 
 ### 🚀 Meus Projetos
 
@@ -144,6 +140,7 @@ Estou sempre aprimorando minhas habilidades e buscando criar soluções inovador
   </a>
 
 </div>
+
 
 
 
