@@ -116,22 +116,21 @@ Estou sempre aprimorando minhas habilidades e buscando criar soluções inovador
 
 ### 🚀 Meus Projetos
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 50px; margin-top: 40px;">
-  <a href="https://github.com/IsacPessoa/clone-disney-plus" style="text-decoration: none;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-top: 40px;">
+  <a href="https://github.com/IsacPessoa/clone-disney-plus" style="text-decoration: none; margin-right: 20px; margin-bottom: 20px;">
     <img src="https://img.shields.io/badge/Projeto-Clone%20Disney%2B-blue?style=for-the-badge&logo=sass&logoColor=white" style="height: 30px;" />
   </a>
 
-  <a href="https://github.com/IsacPessoa/todo-vue" style="text-decoration: none;">
+  <a href="https://github.com/IsacPessoa/todo-vue" style="text-decoration: none; margin-right: 20px; margin-bottom: 20px;">
     <img src="https://img.shields.io/badge/Projeto-Todo%20Vue-green?style=for-the-badge&logo=vue.js&logoColor=white" style="height: 30px;" />
   </a>
 
-  <a href="https://github.com/IsacPessoa/Projeto06_isac" style="text-decoration: none;">
+  <a href="https://github.com/IsacPessoa/Projeto06_isac" style="text-decoration: none; margin-right: 20px; margin-bottom: 20px;">
     <img src="https://img.shields.io/badge/Projeto-Site%20Restaurantes-yellow?style=for-the-badge&logo=react&logoColor=white" style="height: 30px;" />
   </a>
 
-  <a href="https://github.com/IsacPessoa/CalcIMC" style="text-decoration: none;">
+  <a href="https://github.com/IsacPessoa/CalcIMC" style="text-decoration: none; margin-right: 20px; margin-bottom: 20px;">
     <img src="https://img.shields.io/badge/Projeto-Calculadora%20IMC-red?style=for-the-badge&logo=react&logoColor=white" style="height: 30px;" />
   </a>
 </div>
 
-</div>
